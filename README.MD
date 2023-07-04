@@ -4,10 +4,10 @@
 Hora de colocar em prática o que foi ensinado na primeira fase do stage 05 e o que foi visto nos stages anteriores.
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">license</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ It was produced with the following
 
 It's a game called Fortune Cookie, in which the user, with a click or enter, opens a cookie with the message of their luck of the day.
 
-## 🔖 Layout do projeto
+## 🔖 Project Layout
 
 ![PRO2-1](./assets/Screenshot_30.png)
 <br>
@@ -57,6 +57,6 @@ https://www.figma.com/file/SQogdymNTXHyzf3uOrVpXu/Biscoito-da-Sorte-(Community)?
 <br>
 <br>
 
-## Site online
+## Website
 
 ---
