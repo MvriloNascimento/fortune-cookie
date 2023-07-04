@@ -38,7 +38,7 @@ It's a game called Fortune Cookie, in which the user, with a click or enter, ope
 ![PRO2-1](./assets/Screenshot_31.png)
 
 <br>
-Link do Figma: 
+ Figma link: 
 <br>
 https://www.figma.com/file/SQogdymNTXHyzf3uOrVpXu/Biscoito-da-Sorte-(Community)?node-id=104%3A2&t=7WA4ObhiUOftNC8Q-0
 
